@@ -4,7 +4,7 @@ package org.qteam.reptest;
 	Simple github test.
 	@author darq
 */
-public class RepTest
+public final class RepTest
 {
 	/**
 		The main class.
