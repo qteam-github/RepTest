@@ -33,8 +33,6 @@ Test!
 
 To @darq- Are you ready ??? :grin::see_no_evil:
 
-To @darq- Are you there?
-
 Code Section
 ----
 ```java
