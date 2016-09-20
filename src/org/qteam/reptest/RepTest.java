@@ -12,9 +12,9 @@ public final class RepTest
 	*/
     public static void main (String args [])
 	{
-		System.out.println ("Test1 !!!");
-		System.out.println ("Test2 !!!");
-		System.out.println ("Test3 !!!");
+		for (int x = 0; x < 3; x ++)
+			System.out.printf ("Test%d !!!\n", x + 1);
+
 		System.out.println ();
     }
 }
